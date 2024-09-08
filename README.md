@@ -7,6 +7,6 @@ slowly deciding on a plan to try and "fix" this thing.   I decided on a BTT SKR 
 for a .8 nozzle and I had been impressed with how much flow I get from an Ali Express Bambu clone hotend with CHT style nozzle on my Voron 2.4.  At the much lower speeds this machine 
 runs, it does great flow wise up to around 29mm/s³ and they heat to PLA temps in around 12 seconds.  The Stealthburner with 5015 fan isn't ideal for cooling PLA this fast so some form
 of auxiliary fan similar to what Elegoo is using on their Neptune Pro series will happen soon.   Another easy near plug and play upgrade is the Y motor from the Kobra 2 Max. It is a 42-60 
-as opposed to a 42-48.  To eliminate layer shifts in Y, the amperage needs to be bumped pretty heavily on the smaller Y motor.  I run jerk at 6mm/s and accels at 3600.
+as opposed to a 42-48.  To eliminate layer shifts in Y, the amperage needs to be bumped pretty heavily on the smaller Y motor.  I run accels at 3600.
 
 I will update this more as the project progresses and add links to STLS and other helpful repositories 
